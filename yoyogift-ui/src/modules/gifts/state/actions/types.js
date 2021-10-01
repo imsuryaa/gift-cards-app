@@ -1,0 +1,7 @@
+export const FETCH_CARDS = 'FETCH_CARDS';
+export const FETCH_CARD = 'FETCH_CARD';
+export const FETCH_CARD_FILTER = 'FETCH_CARD_FILTER';
+export const ADMIN_ADD_CARD = 'ADMIN_ADD_CARD';
+export const ADMIN_UPDATE_CARD = 'ADMIN_UPDATE_CARD';
+export const DELETE_CARD = 'DELETE_CARD';
+export const UPDATE_CARD_COUNT = 'UPDATE_CARD_COUNT';

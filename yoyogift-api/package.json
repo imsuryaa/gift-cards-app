@@ -1,0 +1,15 @@
+{
+  "name": "yoyogiftg2-json-server",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"No tests yet...\"",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-server": "^0.12.0",
+    "jsonfile": "^6.1.0"
+  },
+  "devDependencies": {}
+}

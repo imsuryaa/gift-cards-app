@@ -1,0 +1,30 @@
+{
+  "short_name": "yoyogift",
+  "name": "Yo Yo Gift",
+  "icons": [
+    {
+      "src": "image96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "image144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "image192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src" : "image512.png",
+      "sizes" : "512x512",
+      "type" : "image/png"
+    }
+  ],
+  "start_url": "./?utm_source=homescreen",
+  "display": "standalone",
+  "theme_color": "#2A3132",
+  "background_color": "#ffffff"
+}

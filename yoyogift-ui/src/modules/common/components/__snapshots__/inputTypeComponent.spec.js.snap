@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Footer Test Suite should render expected HTML 1`] = `"<div class=\\"MuiFormControl-root-1\\"><label class=\\"MuiFormLabel-root-16 MuiInputLabel-root-5 MuiInputLabel-formControl-10 MuiInputLabel-animated-13 MuiInputLabel-shrink-12\\" data-shrink=\\"true\\"></label><div class=\\"MuiInputBase-root-36 MuiInput-root-23 MuiInput-underline-27 MuiInputBase-formControl-37 MuiInput-formControl-24 MuiInputBase-adornedStart-40 MuiInputBase-adornedEnd-41\\"><input aria-invalid=\\"false\\" class=\\"MuiInputBase-input-46 MuiInput-input-31 MuiInputBase-inputAdornedStart-51 MuiInputBase-inputAdornedEnd-52\\" type=\\"text\\" value=\\"\\"></div><p class=\\"MuiFormHelperText-root-53\\">  </p></div>"`;

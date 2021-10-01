@@ -1,0 +1,6 @@
+export const RECEIVED_CARDS = 'RECEIVED_CARDS';
+export const SENT_CARDS = 'SENT_CARDS';
+export const USER_DETAILS = 'USER_DETAILS';
+export const REDEEM_CARD = 'REDEEM_CARD';
+export const UPDATE_BALANCE = 'UPDATE_BALANCE';
+export const UPDATE_TRANSACT = 'UPDATE_TRANSACT';

@@ -1,0 +1,78 @@
+{
+  "name": "yoyogift",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^3.9.3",
+    "@material-ui/icons": "^3.0.2",
+    "@sendgrid/mail": "^6.4.0",
+    "axios": "^0.21.4",
+    "axios-mock-adapter": "^1.20.0",
+    "babel-polyfill": "^6.26.0",
+    "core-js": "^3.18.0",
+    "emailjs-com": "^2.3.2",
+    "enzyme": "^3.3.0",
+    "enzyme-adapter-react-16": "^1.1.1",
+    "firebase": "^6.0.2",
+    "font-awesome": "^4.7.0",
+    "formik": "^1.5.7",
+    "fs-extra": "^8.0.1",
+    "history": "^4.9.0",
+    "http-server": "^13.0.2",
+    "lodash": "^4.17.21",
+    "material-ui-search-bar": "^0.4.2",
+    "moment": "^2.29.1",
+    "react": "^16.8.6",
+    "react-app-polyfill": "^1.0.1",
+    "react-dom": "^16.8.6",
+    "react-draggable": "^3.3.0",
+    "react-google-login": "^5.2.2",
+    "react-loadable": "^5.5.0",
+    "react-localize-redux": "^3.5.3",
+    "react-redux": "^5.0.7",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "3.0.1",
+    "react-star-rating-component": "^1.4.1",
+    "react-test-renderer": "^16.4.2",
+    "react-virtualized": "^9.22.3",
+    "react-virtualized-auto-sizer": "^1.0.6",
+    "redux": "^4.0.1",
+    "redux-form": "^8.2.0",
+    "redux-logger": "^3.0.6",
+    "redux-mock-store": "^1.5.4",
+    "redux-thunk": "^2.3.0",
+    "yup": "^0.32.9"
+  },
+  "jest": {
+    "collectCoverageFrom": [
+      "src/**/*.{js,jsx}",
+      "!**/node_modules/**"
+    ]
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "test-coverage": "react-scripts test --env=jsdom --coverage",
+    "web-server": "http-server -p 8088 -c-1 ./build"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "axios-mock-adapter": "^1.20.0"
+  }
+}

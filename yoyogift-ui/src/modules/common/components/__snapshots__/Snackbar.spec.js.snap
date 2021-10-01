@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Footer Test Suite should render expected HTML 1`] = `"<div><div class=\\"MuiSnackbar-root-1 MuiSnackbar-anchorOriginBottomRight-5\\"><div class=\\"MuiTypography-root-38 MuiTypography-body1-47 MuiPaper-root-11 MuiPaper-elevation6-19 MuiSnackbarContent-root-8\\" role=\\"alertdialog\\" style=\\"background-color: red; webkit-transform: translate(0, 0); transform: translate(0, 0); webkit-transition: -webkit-transform 225ms cubic-bezier(0.0, 0, 0.2, 1) 0ms; transition: transform 225ms cubic-bezier(0.0, 0, 0.2, 1) 0ms;\\"><div class=\\"MuiSnackbarContent-message-9\\">SAS</div></div></div></div>"`;
